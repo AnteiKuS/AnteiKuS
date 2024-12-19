@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Radish
+- 👋 Hi, I’m @Anteiku
 - 👀 I’m interested in ML,AI,game development,cryptoc
 - 🌱 I’m currently learning python
 - 📫 You can reach me via 📥- 96s.aniket@gmail.com , 💬(Discord)- anteiKu_01
